@@ -1,0 +1,91 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 40px;
+}
+h3{
+    color: cadetblue;
+}
+.orange-color {
+    color: orange;
+}
+
+.flexible-container {
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half-width {
+    width: 70%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
+.top-banner {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.dream-big {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.experience-area {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.experience-item {
+    width: 40%;
+    margin-left: 5%;
+    margin-left: 5%;
+    padding-left: 20px;
+    border-radius: 5%;
+    box-shadow: 10px 10px 40px gray;
+}
+
+#full-stack-developer {
+    border-left: 7px solid aqua;
+    width: 320px;
+    height: 180px;
+}
+
+#baby-web-developer {
+    border-left: 7px solid indianred;
+    width: 300px;
+    height: 480px;
+}
+#boss-web-developer{
+    border-left: 7px solid rgb(197, 82, 99);
+    width: 300px;
+    height: 480px;
+}
+footer {
+    text-align: center;
+}
+.edu{
+    padding-left: 80px;
+    text-align: initial;
+}
