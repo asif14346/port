@@ -82,6 +82,11 @@ h3{
     width: 300px;
     height: 480px;
 }
+#super-web-developer{
+    border-left: 7px solid rgb(197, 82, 99);
+    width: 300px;
+    height: 480px;
+}
 footer {
     text-align: center;
 }
